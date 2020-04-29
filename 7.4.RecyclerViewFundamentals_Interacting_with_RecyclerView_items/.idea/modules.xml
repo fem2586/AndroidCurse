@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/7.4.RecyclerViewFundamentals_Interacting_with_RecyclerView_items.iml" filepath="$PROJECT_DIR$/7.4.RecyclerViewFundamentals_Interacting_with_RecyclerView_items.iml" group="7.4.RecyclerViewFundamentals_Interacting_with_RecyclerView_items" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="7.4.RecyclerViewFundamentals_Interacting_with_RecyclerView_items/app" />
+    </modules>
+  </component>
+</project>
