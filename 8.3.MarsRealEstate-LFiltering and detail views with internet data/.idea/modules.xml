@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/8.3.MarsRealEstate-LFiltering and detail views with internet data.iml" filepath="$PROJECT_DIR$/8.3.MarsRealEstate-LFiltering and detail views with internet data.iml" group="8.3.MarsRealEstate-LFiltering and detail views with internet data" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="8.3.MarsRealEstate-LFiltering and detail views with internet data/app" />
+    </modules>
+  </component>
+</project>
